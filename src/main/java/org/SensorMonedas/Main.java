@@ -19,6 +19,9 @@ import java.util.List;
  *     /CGMO-Proyecto2
  *        /Criptmonedas
  *        /Configuracion
+ *
+ * Para ver todos los mensajes ingresar a: https://mqttx.app/web-client#/recent_connections y realizar la conexión
+ * Se recomienda, para ver todas los mensajes, hacer la subscripción como: ComunicacionesRedes/CGMO-Proyecto2/+
  */
 public class Main {
     /** Lista de criptomonedas a monitorear (usar Arrays.asList permite inicializar la lista con las criptomonedas a consultar)
